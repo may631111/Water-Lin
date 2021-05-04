@@ -1,20 +1,19 @@
 ---
 # Display name
-title: Nelson Bighetti
+標題：林美娟
 
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position
-role: Professor of Artificial Intelligence
+＃角色/農夫        
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+-名稱：自然農場        
+  網址：
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+個人簡介：與大自然共存                                                                                                                                                           
 
 #interests:
 #- Artificial Intelligence
