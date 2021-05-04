@@ -10,8 +10,5 @@
 
 [[main]]
   name = "About"
-  url = "您好：
-  我是 Water Lin
-  屏東的小農
-  興趣廣泛"
+  url = "about/"
   weight = 20
